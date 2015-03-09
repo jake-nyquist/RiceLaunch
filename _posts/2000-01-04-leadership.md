@@ -6,7 +6,6 @@ fa-icon: users
 style: center
 ---
 
-####Team
 
 #Meet our Leadership team:
 
