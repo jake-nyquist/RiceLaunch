@@ -1,7 +1,7 @@
 ---
 
 port: 80
-host: ricelaunch.com
+host: localhost
 safe: false
 
 

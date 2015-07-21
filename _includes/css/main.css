@@ -58,6 +58,14 @@ img {
   vertical-align:middle;
 }
 
+
+img.title{
+  max-width:70%!important;
+  max-height:500px!important;
+  height:auto;
+  vertical-align:middle;
+}
+
 hr {
   margin:60px auto;
   width:50%;
