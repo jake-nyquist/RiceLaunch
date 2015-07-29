@@ -1,7 +1,7 @@
 ---
 title: "Team"
-bg: '#CC9E61'
-color: white
+bg: '#FDB300'
+color: '#404749'
 fa-icon: users
 style: center
 ---
@@ -59,7 +59,7 @@ style: center
         </div>
         <div id="leader-text">
             <p class="name"><strong>Ben H-M</strong></p>
-            <p>Will Rice Mech E ℅ 2018- Only the coolest kid on campus can make sure Rice Launch reaches everyone on campus.</p>
+            <p>Will Rice Mech E ℅ 2018- With all the passion of a phoenix itself, he makes sure Rice Launch reaches everyone on campus.</p>
         </div>
     </div>
     <div></div>
