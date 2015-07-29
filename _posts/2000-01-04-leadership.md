@@ -1,6 +1,6 @@
 ---
 title: "Team"
-bg: '#FDB300'
+bg: '#E6AC27'
 color: '#404749'
 fa-icon: users
 style: center
