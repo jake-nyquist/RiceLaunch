@@ -415,12 +415,31 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+@media only screen and (max-width: 870px) {
+  #apply{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    width: 40%;
+    height: 25px!important;
+    font-size: 12px !important;
+    font-weight: none !important;
+    padding-top:1px!important;
+  }
+
+}
 @media only screen and (min-width: 600px) {
   #logo{
     position: absolute;
     top: 16%;
     left: 25%;
     width: 50%;
+  }
+  #apply{
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 20%;
   }
 }
 
@@ -434,6 +453,23 @@ nav ul li:hover, nav ul li.active {
   height:50px;
   background:none;
   font: inherit;
+  font-color: white;
+  border-radius:0px;
+  text-decoration: none;
+  text-shadow:0 0;
+  box-sizing:border-box;
+  display:inline;
+}
+
+#apply {
+  border: 2px solid;
+  border-color: white;
+  color: white;
+  height:50px;
+  background:none;
+  font: inherit;
+  font-size: 20px;
+  font-weight: bold;
   font-color: white;
   border-radius:0px;
   text-decoration: none;
